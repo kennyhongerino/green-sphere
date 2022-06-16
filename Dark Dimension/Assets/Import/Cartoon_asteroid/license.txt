@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon asteroid
+* source:	https://sketchfab.com/3d-models/cartoon-asteroid-9549b301ae4748629422c75d3080a29a
+* author:	DEV STUDIOS 3D (https://sketchfab.com/devraj.nunnu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon asteroid" (https://sketchfab.com/3d-models/cartoon-asteroid-9549b301ae4748629422c75d3080a29a) by DEV STUDIOS 3D (https://sketchfab.com/devraj.nunnu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

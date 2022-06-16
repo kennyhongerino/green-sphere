@@ -1,0 +1,11 @@
+Model Information:
+* title:	(16) Psyche - MPCD model
+* source:	https://sketchfab.com/3d-models/16-psyche-mpcd-model-3e6c11389df24e0799a49e2247af6023
+* author:	marin (https://sketchfab.com/marin14)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(16) Psyche - MPCD model" (https://sketchfab.com/3d-models/16-psyche-mpcd-model-3e6c11389df24e0799a49e2247af6023) by marin (https://sketchfab.com/marin14) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
